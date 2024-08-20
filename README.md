@@ -28,6 +28,11 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="60" width="60" alt="c logo"  />
   <img width="20" />
   <img src="https://user-images.githubusercontent.com/74038190/212280805-9bcb336b-8c55-46a8-abf8-ff286ab55472.gif"  height="60" width="60" alt="bootstrap logo"  />
+  <img width="20" />
+  <img src="https://camo.githubusercontent.com/38827655e1ae0e1518d635ad89e8aa46b7f977c795952245c36a2d58064f1803/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6769742f6769742d6f726967696e616c2e737667"  height="60" width="60" alt="bootstrap logo"  />
+    <img width="20" />
+  <img src="https://user-images.githubusercontent.com/74038190/212280805-9bcb336b-8c55-46a8-abf8-ff286ab55472.gif"  height="60" width="60" alt="bootstrap logo"  />
+ 
 </div>
 
 <br>
