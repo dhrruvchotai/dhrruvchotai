@@ -38,11 +38,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="50" alt="nodejs logo"  />
   <img width="20" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="50" alt="microsoftsqlserver logo"  />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="55" alt="python logo"  />
-  <img width="20" />
-  <img src="https://camo.githubusercontent.com/b5a316a445d392b6f33cf315ebae56acecb547a7ac3a62c6931eb81ddbc813c6/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6e756d70792f6e756d70792d6f726967696e616c2e737667" height="50" alt="numpy logo"  />
-  <img width="20" />
+  
  
 </div>
 
@@ -51,8 +47,6 @@
 ## 🌐 Connect with me
 
 <div align="left">
-<a href="https://twitter.com/ChotaiDhruv" target="blank"><img align="center" src="https://user-images.githubusercontent.com/74038190/235294011-b8074c31-9097-4a65-a594-4151b58743a8.gif" alt="ChotaiDhruv" height="80" width="80" /></a>
-<img width="12" />
 <a href="https://www.linkedin.com/in/dhruv-chotai-179a502aa/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" alt="dhruv chotai" height="80" width="80" /></a>
 <img width="12" />
 <a href="https://www.instagram.com/dhruvchotai.9/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" alt="dhruvchotai.9" height="80" width="80" /></a>
