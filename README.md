@@ -74,8 +74,7 @@
 
 ## 📊 GitHub Stats
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dhrruvchotai&show_icons=true&locale=en" alt="dhrruvchotai" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dhrruvchotai&" alt="dhrruvchotai" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dhrruvchotai&show_icons=true&locale=en&theme=cobalt&bg_color=0d1117" /></p>
 
 <br>
 
