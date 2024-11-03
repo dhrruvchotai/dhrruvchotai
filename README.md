@@ -14,11 +14,11 @@
 
 ## 🚀 Skills
  [![My Skills](https://skillicons.dev/icons?i=c,java,html,css,bootstrap,js,mongodb,express,react,nodejs,postman,py)](https://skillicons.dev)
- <img width="12" />
+ <img width="5" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="42" alt="microsoftsqlserver logo"  />
-   <img width="12" />
+   <img width="5" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="42" alt="numpy logo"  />
-   <img width="12" />
+   <img width="5" />
     <img src="https://seeklogo.com/images/M/matplotlib-logo-7676870AC0-seeklogo.com.png" height="42" alt="numpy logo"  />
 
 
