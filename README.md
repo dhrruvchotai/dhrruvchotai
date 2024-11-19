@@ -5,7 +5,7 @@
 
 - 👨🏼‍💼 Welcome to my GitHub profile! I'm passionate about coding and constantly learning new things. Here, you'll find some of my projects and contributions. Feel free to explore and reach out to me on my social media profiles.
 
-- 🌱 I’m currently learning **DSA, Web-Development and Python**.
+- 🌱 I’m currently learning **Machine Learning and Some Liibraries of Python**.
  
 - 📫 How to reach me: **dhruvchotai01@gmail.com**
  
