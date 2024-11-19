@@ -60,12 +60,5 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=dhrruvchotai&theme=dark&hide_border=true&background=0D1117&ring=9B59B6&fire=9B59B6&currStreakNum=C9D1D9&currStreakLabel=FFFFFF" alt="GitHub Streak" />
 </div>
 
-
-<br>
-
-<div align="center">
- <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" height="400" width="1000"/>
-</div>
-
 <h3 align="center">Thank you for visiting my profile! 😊</h3>
 
