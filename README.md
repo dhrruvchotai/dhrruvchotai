@@ -50,7 +50,14 @@
 
 ## 📊 GitHub Stats
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dhrruvchotai&show_icons=true&locale=en&theme=cobalt&bg_color=0d1117" /></p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=dhrruvchotai&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=FFFFFF&icon_color=9B59B6&text_color=C9D1D9" alt="GitHub Stats" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dhrruvchotai&theme=dark&hide_border=true&background=0D1117&ring=9B59B6&fire=9B59B6&currStreakNum=C9D1D9&currStreakLabel=FFFFFF" alt="GitHub Streak" />
+</div>
+
 
 <br>
 
