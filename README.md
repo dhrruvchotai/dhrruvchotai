@@ -12,6 +12,14 @@
 - ⚡ Fun fact: I AM **BATMAN🦇**
 <br>
 
+## 🌐 Live Projects
+
+- 🎮 **[Memory Card Game (Flip Game)](https://dugames.aswdc.in/FlipGame/index.html)** - A fun memory card game with multiple difficulty levels and score tracking.
+- 🛍️ **[E-Commerce Clothing Website](https://adaa-web-frontend.onrender.com/)** - A full-stack e-commerce website with smooth animations and user authentication.
+- 🔄 **[Friday - Voice Assistant](https://github.com/dhrruvchotai/Friday)** - A Python-based virtual assistant for managing tasks, searching the web, and more.
+- 🤺 **[Rock Paper Scissors](https://dhrruvchotai.github.io/Rock-Paper-Scissor/)** - A simple yet fun rock-paper-scissors game built with JavaScript.
+- 🔑 **[Password Generator](https://dhrruvchotai.github.io/Password-Generator/)** - A secure password generator to create strong and random passwords based on the keywords enterd by the user.
+
 ## 🚀 Skills
  [![My Skills](https://skillicons.dev/icons?i=c,java,html,css,bootstrap,js,mongodb,express,react,nodejs,postman,py)](https://skillicons.dev)
  <img width="5" />
