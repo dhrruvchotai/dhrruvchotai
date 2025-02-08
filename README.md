@@ -20,6 +20,8 @@
 - 🤺 **[Rock Paper Scissors](https://dhrruvchotai.github.io/Rock-Paper-Scissor/)** - A simple yet fun rock-paper-scissors game built with JavaScript.
 - 🔑 **[Password Generator](https://dhrruvchotai.github.io/Password-Generator/)** - A secure password generator to create strong and random passwords based on the keywords enterd by the user.
 
+  <br>
+
 ## 🚀 Skills
  [![My Skills](https://skillicons.dev/icons?i=c,java,html,css,bootstrap,js,mongodb,express,react,nodejs,postman,py)](https://skillicons.dev)
  <img width="5" />
