@@ -29,8 +29,7 @@
    <img width="5" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="42" alt="numpy logo"  />
    <img width="5" />
-    <img src="https://seeklogo.com/images/M/matplotlib-logo-7676870AC0-seeklogo.com.png" height="42" alt="numpy logo"  />
-
+   
 
 <br>
 
