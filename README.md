@@ -15,7 +15,7 @@
   <br>
 
 ## 🚀 Skills
- [![My Skills](https://skillicons.dev/icons?i=c,java,html,css,bootstrap,js,mongodb,express,react,nodejs,postman,py)](https://skillicons.dev)
+ [![My Skills](https://skillicons.dev/icons?i=c,java,html,css,bootstrap,js,mongodb,express,react,nodejs,postman,py,flutter)](https://skillicons.dev)
  <img width="5" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="42" alt="microsoftsqlserver logo"  />
    <img width="5" />
