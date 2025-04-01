@@ -9,8 +9,6 @@
 - 📫 How to reach me: **hey.dhruvchotai@gmail.com**
  
 - ⚡ Fun fact: I AM **BATMAN🦇**
-<br>
-
 <h2 align="left">🚀 Skills</h2>
 
 <h3 align="center">Frontend</h3>
