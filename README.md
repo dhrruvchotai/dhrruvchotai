@@ -13,19 +13,47 @@
  <img height="1" />
 <h2 align="left">🚀 Skills</h2>
 
-<h3 align="center">Frontend</h3>
+<h3 align="center">Programming Languages</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react,flutter" />
+    <img src="https://skillicons.dev/icons?i=c,java,js,python,dart" />
   </a>
 </p>
 
-<h3 align="center">Backend</h3>
+<h3 align="center">Web-Development</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,java,nodejs,mongodb,express,python" />
+    <img src="https://skillicons.dev/icons?i=html,css,react,bootstrap,tailwind" />
   </a>
 </p>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postman" />
+  </a>
+</p>
+
+<h3 align="center">App-Development</h3>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=flutter,sqlite,firebase" />
+  </a>
+</p>
+
+<h3 align="center">AI-ML</h3>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python" />
+    <img width="" />
+    <img src="imgs/numpy.svg" height="50" alt="Numpy"  />
+    <img width="" />
+    <img src="imgs/matplotlib.svg" height="50" alt="Matplotlib"  />
+    <img width="" />
+    <img src="imgs/pandas.svg" height="50" alt="Pandas"  />
+  </a>
+</p>
+
+
 
 <h2 align="left">🌐 Connect with me</h2>
 
