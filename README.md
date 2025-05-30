@@ -55,11 +55,9 @@
   <a href="https://twitter.com/ChotaiDhruv" target="blank">
     <img src="https://skillicons.dev/icons?i=twitter" height="50"/>
   </a>
-  <img width="8" />
   <a href="https://www.linkedin.com/in/dhruv-chotai-179a502aa/" target="blank">
     <img src="https://skillicons.dev/icons?i=linkedin" height="50"/>
   </a>
-  <img width="8" />
   <a href="https://www.instagram.com/dhruvchotai.9/" target="blank">
     <img src="https://skillicons.dev/icons?i=instagram" height="50"/>
   </a>
@@ -71,7 +69,6 @@
   <a href="https://leetcode.com/u/dhruv_9/" target="blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" height="50"/>
   </a>
-  <img width="8" />
   <a href="https://www.hackerrank.com/profile/h23010101051" target="blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png" height="50"/>
   </a>
