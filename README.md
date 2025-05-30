@@ -47,7 +47,7 @@
     <img width="" />
     <img src="Images/numpy.svg" height="50" alt="Numpy"  />
     <img width="" />
-    <img src="Images/matplotlib.svg" height="50" alt="Matplotlib"  />
+    <img src="Images/matplotlib.png" height="50" alt="Matplotlib"  />
     <img width="" />
     <img src="Images/pandas.svg" height="50" alt="Pandas"  />
   </a>
