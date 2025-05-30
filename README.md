@@ -45,11 +45,11 @@
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=python" />
     <img width="" />
-    <img src="imgs/numpy.svg" height="50" alt="Numpy"  />
+    <img src="Images/numpy.svg" height="50" alt="Numpy"  />
     <img width="" />
-    <img src="imgs/matplotlib.svg" height="50" alt="Matplotlib"  />
+    <img src="Images/matplotlib.svg" height="50" alt="Matplotlib"  />
     <img width="" />
-    <img src="imgs/pandas.svg" height="50" alt="Pandas"  />
+    <img src="Images/pandas.svg" height="50" alt="Pandas"  />
   </a>
 </p>
 
