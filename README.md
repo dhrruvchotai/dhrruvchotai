@@ -42,12 +42,12 @@
 
 <h3 align="center">AI-ML</h3>
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python" />
+    <a href="https://skillicons.dev">
+     <img src="https://skillicons.dev/icons?i=python" />
+    </a>
     <img src="Images/numpy.svg" height="50" alt="Numpy"  />
     <img src="Images/matplotlib.png" height="50" alt="Matplotlib"  />
     <img src="Images/pandas.svg" height="50" alt="Pandas"  />
-  </a>
 </p>
 
 
