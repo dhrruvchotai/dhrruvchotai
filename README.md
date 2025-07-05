@@ -41,10 +41,11 @@
 <h3 align="center">AI-ML</h3>
 
 <p align="center">
-    <img src="https://github.com/hetbhalani/hetbhalani/blob/main/imgs/np-2.svg" height="50" alt="Numpy"  />
-    <img src="https://github.com/hetbhalani/hetbhalani/blob/main/imgs/plt-2.svg" height="50" alt="Matplotlib"  />
-    <img src="https://github.com/hetbhalani/hetbhalani/blob/main/imgs/pd-2.svg" height="50" alt="Pandas"  />
+  <img src="Images/numpy.svg" alt="NumPy" height="40" style="margin: 10px;" />
+  <img src="Images/matplotlib.png" alt="Matplotlib" height="40" style="margin: 10px;" />
+  <img src="Images/pandas.svg" alt="Pandas" height="40" style="margin: 10px;" />
 </p>
+
 
 
 <h2 align="left">🌐 Connect with me</h2>
