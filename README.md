@@ -2,14 +2,12 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dhrruvchotai&label=Profile%20views&color=0e75b6&style=flat" alt="dhrruvchotai" height="26"/> </p>
 
-- 👨🏼‍💼 Welcome to my GitHub profile! I'm passionate about coding and constantly learning new things. Here, you'll find some of my projects and contributions. Feel free to explore and reach out to me on my social media profiles.
+- 👨🏼‍💼 I'm passionate about coding and constantly learning new things. Here, you'll find some of my projects and contributions. Feel free to explore and reach out to me on my social media profiles.
 
 - 🌱 I’m currently learning **Flutter** and **Machine Learning.**.
  
 - 📫 How to reach me: **hey.dhruvchotai@gmail.com**
- 
-- ⚡ Fun fact: I AM **BATMAN🦇**
-
+  
  <img height="1" />
 <h2 align="left">🚀 Skills</h2>
 
@@ -41,16 +39,11 @@
 </p>
 
 <h3 align="center">AI-ML</h3>
+
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python" />
-    <img width="" />
-    <img src="Images/numpy.svg" height="50" alt="Numpy"  />
-    <img width="" />
-    <img src="Images/matplotlib.svg" height="50" alt="Matplotlib"  />
-    <img width="" />
-    <img src="Images/pandas.svg" height="50" alt="Pandas"  />
-  </a>
+  <img src="Images/numpy.svg" alt="NumPy" height="40" style="margin: 10px;" />
+  <img src="Images/matplotlib.png" alt="Matplotlib" height="40" style="margin: 10px;" />
+  <img src="Images/pandas.svg" alt="Pandas" height="40" style="margin: 10px;" />
 </p>
 
 
@@ -61,11 +54,9 @@
   <a href="https://twitter.com/ChotaiDhruv" target="blank">
     <img src="https://skillicons.dev/icons?i=twitter" height="50"/>
   </a>
-  <img width="8" />
   <a href="https://www.linkedin.com/in/dhruv-chotai-179a502aa/" target="blank">
     <img src="https://skillicons.dev/icons?i=linkedin" height="50"/>
   </a>
-  <img width="8" />
   <a href="https://www.instagram.com/dhruvchotai.9/" target="blank">
     <img src="https://skillicons.dev/icons?i=instagram" height="50"/>
   </a>
@@ -77,7 +68,6 @@
   <a href="https://leetcode.com/u/dhruv_9/" target="blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" height="50"/>
   </a>
-  <img width="8" />
   <a href="https://www.hackerrank.com/profile/h23010101051" target="blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png" height="50"/>
   </a>
