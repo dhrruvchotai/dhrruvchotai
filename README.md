@@ -41,9 +41,9 @@
 <h3 align="center">AI-ML</h3>
 
 <p align="center">
-  <img src="Images/numpy.svg" alt="NumPy" />
-  <img src="Images/matplotlib.svg" alt="Matplotlib" />
-  <img src="Images/pandas.svg" alt="Pandas" />
+  <img src="Images/numpy.svg" alt="NumPy" height="50"/>
+  <img src="Images/matplotlib.svg" alt="Matplotlib" height="50"/>
+  <img src="Images/pandas.svg" alt="Pandas" height="50"/>
 </p>
 
 
