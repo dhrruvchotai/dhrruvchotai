@@ -2,13 +2,12 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dhrruvchotai&label=Profile%20views&color=0e75b6&style=flat" alt="dhrruvchotai" height="26"/> </p>
 
-- 👨🏼‍💼 Welcome to my GitHub profile! I'm passionate about coding and constantly learning new things. Here, you'll find some of my projects and contributions. Feel free to explore and reach out to me on my social media profiles.
+- 👨🏼‍💼 I'm passionate about coding and constantly learning new things. Here, you'll find some of my projects and contributions. Feel free to explore and reach out to me on my social media profiles.
 
 - 🌱 I’m currently learning **Flutter** and **Machine Learning.**.
  
 - 📫 How to reach me: **hey.dhruvchotai@gmail.com**
- 
-- ⚡ Fun fact: I AM **BATMAN🦇**
+
 
  <img height="1" />
 <h2 align="left">🚀 Skills</h2>
