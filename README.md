@@ -7,8 +7,7 @@
 - 🌱 I’m currently learning **Flutter** and **Machine Learning.**.
  
 - 📫 How to reach me: **hey.dhruvchotai@gmail.com**
-
-
+  
  <img height="1" />
 <h2 align="left">🚀 Skills</h2>
 
