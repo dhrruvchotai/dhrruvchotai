@@ -41,9 +41,9 @@
 <h3 align="center">AI-ML</h3>
 
 <p align="center">
-  <img src="Images/numpy.svg" alt="NumPy" height="50"/>
-  <img src="Images/matplotlib.svg" alt="Matplotlib" height="50"/>
-  <img src="Images/pandas.svg" alt="Pandas" height="50"/>
+  <img src="Images/numpy.svg" alt="NumPy" width="53" height="50"/>
+  <img src="Images/matplotlib.svg" alt="Matplotlib" width="53" height="50"/>
+  <img src="Images/pandas.svg" alt="Pandas" width="50" height="53"/>
 </p>
 
 
@@ -52,7 +52,7 @@
 
 <p align="center">
   <a href="https://twitter.com/ChotaiDhruv" target="blank">
-    <img src="https://skillicons.dev/icons?i=twitter" height="50"/>
+    <img src="https://skillicons.dev/icons?i=twitter" height="50" />
   </a>
   <a href="https://www.linkedin.com/in/dhruv-chotai-179a502aa/" target="blank">
     <img src="https://skillicons.dev/icons?i=linkedin" height="50"/>
@@ -66,10 +66,10 @@
 
 <p align="center">
   <a href="https://leetcode.com/u/dhruv_9/" target="blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" height="50"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" height="60" width="60"/>
   </a>
   <a href="https://www.hackerrank.com/profile/h23010101051" target="blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png" height="50"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png" height="60" width="60"/>
   </a>
 </p>
 
